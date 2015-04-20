@@ -1,2 +1,2 @@
 # datasciencecoursera
-My Github repo for Coursera course R Programming
+My Github repo for the "Data Science" specialization track offered by Coursera.
